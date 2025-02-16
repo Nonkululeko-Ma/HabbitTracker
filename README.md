@@ -5,7 +5,7 @@
 # To run it, you will need to have Node js and npm. it must be install on your machine, then run by "npm start".
 # This App was build using Javascript and React framework.
 
-# Screanshot imagise showing the front end of the App.
+# Screanshot imagise showing the Frontend of the App.
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
